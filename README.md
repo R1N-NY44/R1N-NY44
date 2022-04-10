@@ -40,7 +40,9 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
   <img src="https://github.com/R1N-NY44/github-readme-stats">
 </p>
 </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&langs_count=8)](https://github.com/R1N-NY44/github-readme-stats)
+
 </br>
 </br>
 </br>
