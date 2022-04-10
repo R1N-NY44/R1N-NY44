@@ -1,4 +1,4 @@
-# **About Me!**
+# **About Me! | 關於我**
 ![](https://i.pinimg.com/originals/df/ea/ef/dfeaef14270d7418b9c7960d279753f9.gif)
 <!-- [![](https://github-readme-stats.vercel.app/api?username=R1N-NY44)](https://github.com/R1N-NY44/github-readme-stats) -->
 You can call me **rin**,
@@ -7,7 +7,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 </br></br>
 
 
-# **My Stats!**
+# **My Stats! | 我的統計**
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=dark) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=Here%20we%20go!&border_radius=15)
@@ -34,7 +34,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 </br></br>
 
 
-# **Language**
+# **Language | 語言**
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&layout=compact)](https://github.com/R1N-NY44/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&langs_count=8)](https://github.com/R1N-NY44/github-readme-stats)
 </br>
