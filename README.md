@@ -1,7 +1,9 @@
-**Hello there!**
+# H1**Hello there!**
 <h5>A</h5>
 
 ![](https://i.pinimg.com/originals/df/ea/ef/dfeaef14270d7418b9c7960d279753f9.gif)
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
 
 You can call me **rin**,
 I'm a full stack web developer
