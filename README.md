@@ -4,12 +4,11 @@
 You can call me **rin**,
 I'm a full stack web developer
 I'm currently doing some projects to improve my skills, I hope we can collaborate to do some projects together
-
+</br></br>
 # **My Stats!**
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&theme=gruvbox) -->
-</br>
-</br>
+</br></br>
 
 
 # **Language**
@@ -18,7 +17,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 </br>
 </br>
 </br>
-
+# ***
 ![](https://komarev.com/ghpvc/?username=your-github-R1N-NY44&color=14e0e0&style=flat-square)
 <!-- Repo Pins -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
