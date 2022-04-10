@@ -1,5 +1,7 @@
 # **About Me! | 私について | 關於我**
-![](https://i.pinimg.com/originals/df/ea/ef/dfeaef14270d7418b9c7960d279753f9.gif)
+<!-- ![](https://i.pinimg.com/originals/df/ea/ef/dfeaef14270d7418b9c7960d279753f9.gif) -->
+![](https://64.media.tumblr.com/b9a84f3d2315682a06233ec7f53649dc/8d4559cfae2fec83-2a/s1280x1920/d6b97244f01c30ca4f5c67dbd063c6b870fd13ac.gif)
+
 <!-- [![](https://github-readme-stats.vercel.app/api?username=R1N-NY44)](https://github.com/R1N-NY44/github-readme-stats) -->
 You can call me **rin**,
 I'm a full stack web developer
