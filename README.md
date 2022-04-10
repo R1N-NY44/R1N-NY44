@@ -10,7 +10,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 # **My Stats!**
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=dark) -->
 
-![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&hide_title=true&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&hide_title=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=merko) -->
 
