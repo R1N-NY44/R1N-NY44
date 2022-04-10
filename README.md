@@ -2,15 +2,17 @@
 <!-- ![](https://i.pinimg.com/originals/df/ea/ef/dfeaef14270d7418b9c7960d279753f9.gif) -->
 ![](https://64.media.tumblr.com/6820ed09e72737d8bb99a7063f3c9efc/b61a587adf7553a0-c1/s540x810/ac943fbaa9dd401b0f4731e6f6d30284c2939313.gifv)
 
-#### [EN]
+**[EN]**
 You can call me **rin**,
 I'm a full stack web developer
 I'm currently doing some projects to improve my skills, I hope we can collaborate to do some projects together
 
+**[JA]**
 あなたは私を**凛**と呼ぶことができます、
 私はフルスタックのWeb開発者です
 私は現在、スキルを向上させるためにいくつかのプロジェクトを行っています。一緒にいくつかのプロジェクトを行うために協力できることを願っています
 
+**[CN]**
 你可以叫我**凛**，
 我是一名全栈 Web 开发人员
 我目前正在做一些项目来提高我的技能，我希望我们可以合作一起做一些项目
@@ -18,7 +20,6 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 
 # <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="30" height="30" /> **My Stats! | 私のステータス | 我的統計**
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=Here%20we%20go!&border_radius=15) -->
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=Here%20we%20go!&border_radius=15&locale=en&langs_count=20)
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=ステータス&border_radius=15&locale=ja&langs_count=20)
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=開始了&border_radius=15&locale=cn&langs_count=20)
