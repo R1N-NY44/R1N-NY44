@@ -18,13 +18,13 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 你可以叫我**凛**，
 我是一名全栈 Web 开发人员
 我目前正在做一些项目来提高我的技能，我希望我们可以合作一起做一些项目
-</br></br>
+</br></br></br></br>
 
 
-# <p align="center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> **My Stats! | 私のステータス | 我的統計** <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> </p>
+# <p align="center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> **My Stats! | 私のステータス | 我的統計** <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> 
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[EN]%20Here%20we%20go!&border_radius=15&locale=en&langs_count=20)
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[JA]%20ステータス&border_radius=15&locale=ja&langs_count=20)
-![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[CN]%20開始了&border_radius=15&locale=cn&langs_count=20)
+![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[CN]%20開始了&border_radius=15&locale=cn&langs_count=20)</p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=dark) -->
 
@@ -44,7 +44,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=dracula) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&theme=gruvbox) -->
-</br></br>
+</br></br></br></br>
 
 
 # <p align="center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> **Language | 言語 | 語言** <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> </p>
