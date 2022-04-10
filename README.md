@@ -1,7 +1,7 @@
 # **Hello there!**
 [logo](https://i.pinimg.com/originals/df/ea/ef/dfeaef14270d7418b9c7960d279753f9.gif)
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://i.pinimg.com/originals/df/ea/ef/dfeaef14270d7418b9c7960d279753f9.gif "Logo Title Text 2"
 
 You can call me **rin**,
 I'm a full stack web developer
