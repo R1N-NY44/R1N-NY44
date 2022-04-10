@@ -10,6 +10,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&theme=gruvbox) -->
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44)](https://github.com/R1N-NY44/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&layout=compact)](https://github.com/R1N-NY44/github-readme-stats)
 
 <!-- Repo Pins -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
