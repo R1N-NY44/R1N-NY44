@@ -35,11 +35,15 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 # <p align="center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> **Language | 言語 | 語言** <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&layout=compact)](https://github.com/R1N-NY44/github-readme-stats) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&langs_count=8">
+  <img src="https://github.com/R1N-NY44/github-readme-stats">
+</p>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&langs_count=8)](https://github.com/R1N-NY44/github-readme-stats)
 </br>
 </br>
 </br>
-
 
 
 ##
