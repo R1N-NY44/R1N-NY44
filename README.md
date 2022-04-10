@@ -6,7 +6,7 @@ I'm a full stack web developer
 I'm currently doing some projects to improve my skills, I hope we can collaborate to do some projects together
 </br></br>
 # **My Stats!**
-![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&bg_color=30,e96443,904e95)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&theme=gruvbox) -->
 </br></br>
 
