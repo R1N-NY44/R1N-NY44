@@ -19,6 +19,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 # **My Stats! | 私のステータス | 我的統計**
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=Here%20we%20go!&border_radius=15)
+![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=Here%20we%20go!&border_radius=15&locale=en)
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=ステータス&border_radius=15&locale=ja)
 ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=開始了&border_radius=15&locale=cn)
 
