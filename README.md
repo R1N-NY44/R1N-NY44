@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/6820ed09e72737d8bb99a7063f3c9efc/b61a587adf7553a0-c1/s540x810/ac943fbaa9dd401b0f4731e6f6d30284c2939313.gifv">
 </p>
-<!-- ![](https://64.media.tumblr.com/6820ed09e72737d8bb99a7063f3c9efc/b61a587adf7553a0-c1/s540x810/ac943fbaa9dd401b0f4731e6f6d30284c2939313.gifv) -->
 
 **[EN]**
 You can call me **rin**,
@@ -31,29 +30,6 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
   <img src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[CN]%20開始了&border_radius=15&locale=cn&langs_count=20">
   
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[EN]%20Here%20we%20go!&border_radius=15&locale=en&langs_count=20)
-![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[JA]%20ステータス&border_radius=15&locale=ja&langs_count=20)
-![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[CN]%20開始了&border_radius=15&locale=cn&langs_count=20)
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=dark) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=merko) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=gruvbox) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=tokyonight) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=onedark) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=cobalt) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=synthwave) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=highcontrast) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=dracula) -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&theme=gruvbox) -->
 </br></br></br></br>
 
 
