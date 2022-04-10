@@ -8,7 +8,8 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 
 # **My Stats!**
-![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&theme=tokyonight&bg_color=349, rgba(96,148,234,1) 5%, rgba(240,47,194,1))
+(349deg, rgba(96,148,234,1) 5%, rgba(240,47,194,1) 100%)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&theme=gruvbox) -->
 </br></br>
 
