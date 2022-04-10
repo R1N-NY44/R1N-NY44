@@ -8,5 +8,3 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 ![](https://komarev.com/ghpvc/?username=your-github-R1N-NY44&color=14e0e0&style=flat-square)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LaNzLijZRBo/0.jpg)](http://www.youtube.com/watch?v=LaNzLijZRBo)
-
