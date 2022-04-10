@@ -12,7 +12,8 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 
 # **Language**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&layout=compact)](https://github.com/R1N-NY44/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&layout=compact)](https://github.com/R1N-NY44/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&langs_count=8)](https://github.com/R1N-NY44/github-readme-stats)
 </br>
 </br>
 </br>
