@@ -22,16 +22,17 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 # <p align="center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> **My Stats! | 私のステータス | 我的統計** <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[EN]%20Here%20we%20go!&border_radius=15&locale=en&langs_count=20">
-  
+
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[JA]%20ステータス&border_radius=15&locale=ja&langs_count=20">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&show_icons=true&title_color=fff&text_color=fff&bg_color=338,6094ea,f02fc2&theme=radical&count_private=true&include_all_commits=true&line_height=25&custom_title=[CN]%20開始了&border_radius=15&locale=cn&langs_count=20">
-</br></br></br></br>
+</p></br></br></br></br>
 
 
 # <p align="center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> **Language | 言語 | 語言** <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" /> </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&layout=compact)](https://github.com/R1N-NY44/github-readme-stats) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&langs_count=8">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-NY44&langs_count=8"></p>
 </br></br></br>
 
 
