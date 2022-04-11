@@ -43,7 +43,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 <img align="right" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat-square">
 <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&style=flat-square">
 <img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat-square">
-<img align="right" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&style=flat-square">
+<a href="https://www.w3schools.com"><img align="right" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&style=flat-square"></a>
 
 <!-- <img align="right" src="&style=flat-square"> -->
 <!-- ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) -->
