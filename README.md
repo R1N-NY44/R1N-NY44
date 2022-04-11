@@ -38,8 +38,10 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 ##
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-R1N-NY44&color=14e0e0&style=flat-square">
-<img align="right" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat-square">
-<img align="right" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&style=flat-square">
+<img align="right" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white?style=flat-square&logo=appveyor">
+
+<img align="right" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white?style=flat-square&logo=appveyor">
+<img align="right" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white?style=flat-square&logo=appveyor">
 
 
 <!-- ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) -->
