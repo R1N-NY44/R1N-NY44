@@ -16,8 +16,6 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoga&label=Profile%20views&color=0e75b6&style=flat" alt="yoga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoga" alt="yoga" /></a> </p>
-
 - 🔭 I’m currently working on [D'Kampus](https://dkampus.id/)
 
 - 🌱 I’m currently learning **Java, Js, Py, Kotlin, Laravel**
