@@ -30,7 +30,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 - ⚡ Fun fact **I'm an anime lovers but also love watching movie too**
 
-<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <h3 align="left">Connect with me :</h3> -->
 <p align="left">
 </p>
 
