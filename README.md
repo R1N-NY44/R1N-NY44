@@ -36,7 +36,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 <p>&nbsp;</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga&show_icons=true&locale=en" alt="yoga" /></p>
+
 
 <p>&nbsp;</p>
 
