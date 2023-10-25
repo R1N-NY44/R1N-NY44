@@ -20,7 +20,7 @@ I'm currently doing some projects to improve my skills, I hope we can collaborat
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoga&label=Profile%20views&color=0e75b6&style=flat" alt="yoga" /> </p>
 
-- 🔭 I’m currently working on [D'Kampus](https://dkampus.id/)
+- 🔭 I’m currently working at [D'Kampus](https://dkampus.id/)
 
 - 🌱 I’m currently learning **Java, Js, Py, Kotlin, Laravel**
 
