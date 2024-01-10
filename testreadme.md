@@ -1,4 +1,4 @@
-<img align="right" height="110" src="https://cdn.discordapp.com/attachments/1025234293976481803/1194617531181318144/1fcc6d62d16cfddf9401f754f25e9f36.gif"  />
+<img align="right" height="100" src="https://cdn.discordapp.com/attachments/1025234293976481803/1194617531181318144/1fcc6d62d16cfddf9401f754f25e9f36.gif"  />
 
 ###
 
@@ -10,13 +10,18 @@
 
 ###
 
+<br clear="both">
+
+###
+
 <h3 align="center">"A little About me as Real Life Creature"</h3>
 
 ###
 
-<br clear="both">
-
-<img align="left" height="320" src="https://i.pinimg.com/originals/9c/ba/51/9cba513c9d6ca51456e16f578c888b2b.gif"  />
+<div align="left">
+<img align="left" height="320" margin="2" src="https://i.pinimg.com/originals/9c/ba/51/9cba513c9d6ca51456e16f578c888b2b.gif"/>
+<img align="left" height="320" margin="2" src="[https://i.pinimg.com/originals/9c/ba/51/9cba513c9d6ca51456e16f578c888b2b.gif](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
+</div>
 
 ###
 
