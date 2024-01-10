@@ -17,7 +17,7 @@
 <!-- Isi Quotes -->
 <img align="left" height="100" src="[#](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
 <img align="left" height="100" src="[#](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
-<h3 align="center">"Every small effort adds up to progress. Embrace the journey, stay committed, and let your actions be the guide to achieving your goals."</h3>
+<h3 align="left">"Every small effort adds up to progress. Embrace the journey, stay committed, and let your actions be the guide to achieving your goals."</h3>
 
 ### 
 
