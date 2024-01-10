@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hi! I'm Brindawan Yoga AKA RinNyaa</h1>
+<h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" />, I'm Brindawan Yoga AKA RinNyaa</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 <div align="left">
 <img align="left" height="320" margin="2" src="https://i.pinimg.com/originals/9c/ba/51/9cba513c9d6ca51456e16f578c888b2b.gif"/>
-<img align="left" height="320" margin="2" src="[https://i.pinimg.com/originals/9c/ba/51/9cba513c9d6ca51456e16f578c888b2b.gif](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
+<img align="left" height="320" margin="2" src="[#](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
 </div>
 
 ###
@@ -30,8 +30,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R1N-NY44&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R1N-NY44&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
