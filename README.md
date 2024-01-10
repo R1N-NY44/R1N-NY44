@@ -117,25 +117,29 @@
 ###
 
 <h1 align="center">&nbsp;</h1>
+<h3 align="center">&nbsp;</h3>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="180" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=R1N-NY44&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&order=2" height="180" alt="languages graph"  />
+</div>
+
+
+<h1 align="center">&nbsp;</h1>
+<h3 align="center">&nbsp;</h3>
+
+
 
 <div align="center">
   
   <!--<img src="https://github-profile-trophy.vercel.app?username=R1N-NY44&theme=apprentice&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />-->
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="180" alt="stats graph"/>
-
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R1N-NY44&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&order=2" height="180" alt="languages graph"  />
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=R1N-NY44&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
   
 </div>
 
 
-<div align="center">
+<!--<div align="center">
   
-</div>
+</div>-->
 
 ###
 
