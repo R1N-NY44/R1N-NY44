@@ -1,20 +1,29 @@
-<img align="right" height="100" src="https://cdn.discordapp.com/attachments/1025234293976481803/1194617531181318144/1fcc6d62d16cfddf9401f754f25e9f36.gif"  />
+<img align="right" height="160" src="https://cdn.discordapp.com/attachments/1025234293976481803/1194617531181318144/1fcc6d62d16cfddf9401f754f25e9f36.gif"  />
+<img align="right" height="180" src="[#](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
+<img align="right" height="180" src="[#](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
+<img align="right" height="180" src="[#](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
+
+
 
 ###
 
+<div>
 <h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" />, I'm Brindawan Yoga AKA RinNyaa</h1>
 
-###
-
-<p align="right"></p>
+</div>
 
 ###
+
+<!-- Isi Quotes -->
+<img align="left" height="100" src="[#](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
+<img align="left" height="100" src="[#](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
+<h3 align="left">"Every small effort adds up to progress. Embrace the journey, stay committed, and let your actions be the guide to achieving your goals."</h3>
+
+### 
 
 <br clear="both">
 
-###
-
-<h3 align="center">"A little About me as Real Life Creature"</h3>
+<h1 align="center">"A little About me as Real Life Creature"</h1>
 
 ###
 
@@ -29,10 +38,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R1N-NY44&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">Programming Languages ~</h3>
 
 ###
 
@@ -60,15 +66,15 @@
 
 ###
 
-<h3 align="left">Databases ~</h3>
-
-###
-
-<h1 align="center">~ My Skills ~<br>o(〃＾▽＾〃)o</h1>
+<!--<h1 align="center">~ My Skills ~<br>o(〃＾▽＾〃)o</h1>-->
 
 ###
 
 <br clear="both">
+
+###
+
+<h3 align="left">Databases ~</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -87,8 +93,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="right">~ Framework</h3>
 
@@ -112,14 +116,28 @@
 
 ###
 
+<h1 align="center">&nbsp;</h1>
+
 <div align="center">
+  
   <img src="https://github-profile-trophy.vercel.app?username=R1N-NY44&theme=apprentice&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=R1N-NY44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="200" alt="stats graph"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R1N-NY44&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&order=2" height="200" alt="languages graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=R1N-NY44&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  
+</div>
+
+
+<div align="center">
+  
 </div>
 
 ###
 
-<br clear="both">
+<!--<br clear="both">
 
 <img src="https://raw.githubusercontent.com/R1N-NY44/R1N-NY44/output/snake.svg" alt="Snake animation" />
 
@@ -137,7 +155,7 @@
 
 ###
 
-<br clear="both">
+<br clear="both"> -->
 
 <div align="right">
   <img src="https://profile-counter.glitch.me/R1N-NY44/count.svg?"  />
