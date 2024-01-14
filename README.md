@@ -5,8 +5,6 @@
 
 ###
 
-###
-
 <div>
 <h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" />, I'm Brindawan Yoga AKA RinNyaa</h1>
 
