@@ -3,7 +3,6 @@
 <img align="right" height="180" src="[&nbsp;](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
 <img align="right" height="180" src="[&nbsp;](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
 
-###-
 
 <div>
 <h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" />, I'm Brindawan Yoga AKA RinNyaa</h1>
