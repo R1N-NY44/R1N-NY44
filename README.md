@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">Currently Learning ~</h3>
+<h3 align="left">Currently Learning :</h3>
 
 ###
 
@@ -52,6 +52,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />  
 </div>
 
+
+###
+
+<br clear="both">
 
 ###
 
@@ -120,6 +124,9 @@
 <br clear="both">
 
 <div align="right">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="37" alt="jetpack compose"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
