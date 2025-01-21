@@ -4,7 +4,7 @@
 <img align="right" height="180" src="[&nbsp;](https://th.bing.com/th/id/OIP.TRsMqYRsFkRplaXu_Zz-jAHaFj?rs=1&pid=ImgDetMain)"/>
 
 <div>
-<h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" />, I'm Yoga AKA RinNyaa</h1>
+<h1 align="center">Hi <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="27" height="27" />, Konichinya!</h1>
 
 </div>
 
