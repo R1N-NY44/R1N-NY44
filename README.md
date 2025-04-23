@@ -156,6 +156,11 @@
 <h3 align="center">&nbsp;</h3>
 
 
+<div align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@RinNyaa?name=RinNyaa&theme=rule34&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto">
+  </a>
+</div>
 
 <div align="center">
   
