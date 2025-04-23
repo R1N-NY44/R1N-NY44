@@ -198,8 +198,8 @@
 
 <br clear="both"> -->
 
-<div align="right">
+<!--<div align="right">
   <img src="https://profile-counter.glitch.me/R1N-NY44/count.svg?"  />
-</div>
+</div>-->
 
 ###
