@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm a coder and tech enthusiast who loves anime and cats.  I enjoy exploring random ideas that cross my mind and bringing them into reality. My hobby centers around DIY microcontroller projects, like IoT or various Arduino experiments.<br><br>In the coding realm, I'm adept at both front-end and back-end web development, though I don't lay claim to being a full-stack developer. During my downtime, I like to immerse myself in enjoyable projects – be it developing games with friends or delving into spontaneous web and software ventures. This could involve building bots or tinkering with different ideas. Ultimately, it's all about having a good time and maximizing my break moments.</p>
+<p align="left">I'm a coder and tech enthusiast who loves anime and cats.  I enjoy exploring random ideas that cross my mind and bringing them into reality. My hobby centers around DIY microcontroller projects, like IoT or various Arduino experiments.<br><br>In the coding realm, I'm adept at both front-end and back-end web development, though I don't lay claim to being a full-stack web developer. During my downtime, I like to immerse myself in enjoyable projects – be it developing games with friends or delving into spontaneous web and software ventures. This could involve building bots or tinkering with different ideas. Ultimately, it's all about having a good time and maximizing my break moments.</p>
 
 ###
 
